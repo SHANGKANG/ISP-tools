@@ -10,7 +10,7 @@
 
 ## 演示demo
 
-<video src="./images/ISP系统demo.mp4" style="zoom: 50%;"></video>
+./images/ISP系统demo.mp4
 
 ## 软件架构
 
