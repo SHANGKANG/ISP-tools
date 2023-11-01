@@ -10,7 +10,8 @@
 
 ## 演示demo
 
-./images/ISP系统demo.mp4
+https://github.com/SHANGKANG/ISP-tools/assets/45681366/beb54bd0-24d0-4f0a-ae95-b2d0a5559433
+
 
 ## 软件架构
 
